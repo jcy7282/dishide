@@ -22,6 +22,7 @@ dishide is an app that allows users to post, see, and compare different restaura
 3. Fetch the Yelp Places API key and place it in .env
 4. Run `npm run dev`
 5. Open [http://localhost:3000](http://localhost:3000)
+6. Test
 
 ## AI Assistance
 I used Codex/ChatGPT to help with:
